@@ -8,7 +8,7 @@ I’m a MERN Stack Developer who loves creating smooth, intuitive, and high-perf
 </div>
 
 
-### 🚀 About Me
+### About Me
 
 - Currently pursuing **MCA at IGNOU** (2025-2027)
 - Former **Web Developer Intern** at Encrodev Softwares
@@ -16,12 +16,12 @@ I’m a MERN Stack Developer who loves creating smooth, intuitive, and high-perf
 - I enjoy solving problems and building production-ready applications
 - Focused on clean code, responsive design, and smooth animations
 
-### 🛠️ Tech Stack
+### Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,bootstrap,postman,git,github,vscode" />
 </p>
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p>
   <a href="mailto:ankitamaurya2908@gmail.com">
