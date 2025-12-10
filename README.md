@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ankita  👋  
+# Hi, I'm Ankita  👋  
 ### Full-Stack Developer | React & Next.js Enthusiast
 
 I’m a MERN Stack Developer who loves creating smooth, intuitive, and high-performing web applications. My work focuses on React and Next.js, where I prioritize clean architecture, performance, and delivering great user experiences. I’m passionate about transforming ideas into meaningful digital products, continuously improving my skills, and crafting interfaces that feel effortless for users.
