@@ -18,7 +18,7 @@ MERN Stack Developer focused on building clean, high-performance web application
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,bootstrap,postman,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,bootstrap,postman,github,vscode" />
 </p>
 
 ### Let's Connect
