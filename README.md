@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I'm Ankita  👋  
-### Full-Stack Developer | React & Next.js Enthusiast
+### Frontend Developer | React & Next.js Enthusiast
 
-MERN Stack Developer focused on building clean, high-performance web applications using React and Next.js.
+Frontend Developer focused on building clean, high-performance web applications using React and Next.js.
 
 </div>
 
