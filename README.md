@@ -11,7 +11,7 @@ Frontend Developer focused on building clean, high-performance web applications 
 ### About Me
 
 - Currently pursuing **MCA at IGNOU** (2025-2027)
-- Former **Web Developer Intern** at Encrodev Softwares
+- Former **Web Developer** at Digishot Technologies 
 - Passionate about creating seamless user experiences with **React, Next.js, and Framer Motion**
 - I enjoy solving problems and building production-ready applications
 - Focused on clean code, responsive design, and smooth animations
