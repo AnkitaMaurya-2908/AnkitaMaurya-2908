@@ -16,19 +16,6 @@ I enjoy building interactive, responsive, and user-friendly web applications. I'
 - Currently strengthening my JavaScript and React fundamentals.
 - Looking for opportunities as a Frontend Developer or React Developer.
 
-# Professional Experience
-
-### Digishot Technologies - Frontend Developer
-#### March 2026 - October 2026 (including Internship)
-
-- Contributed to 20+ client website projects, developing responsive interfaces and implementing UI improvements using HTML, CSS, JavaScript, WordPress, and Webflow.
-
-### Encrodev Softwares – Web Developer Intern
-#### August 2025 – November 2025
-
-- Gained exposure to React.js, Next.js, Tailwind CSS and Framer Motion through development projects.
-
-
 # Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,wordpress,webflow,github,vscode" />
