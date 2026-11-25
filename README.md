@@ -1,24 +1,24 @@
 <div align="center">
 
 # Hi, I'm Ankita  👋  
-### Frontend Developer | React & Next.js Enthusiast
+### Frontend Developer | React.js | JavaScript
 
-Frontend Developer focused on building clean, high-performance web applications using React and Next.js.
+I enjoy building interactive, responsive, and user-friendly web applications. I'm passionate about creating clean UI experiences, writing maintainable code, and continuously improving my frontend development skills.
 
 </div>
 
 
 ### About Me
 
-- Currently pursuing **MCA at IGNOU** (2025-2027)
-- **Web Developer** at Digishot Technologies 
-- Passionate about creating seamless user experiences with **React, Next.js, and Framer Motion**
-- I enjoy solving problems and building production-ready applications
-- Focused on clean code, responsive design, and smooth animations
+- Frontend Developer with professional web development experience.
+- Interested in building modern applications using React.js and mordern technologies.
+- Enjoy creating responsive interfaces and smooth UI animations.
+- Currently strengthening my JavaScript and React fundamentals.
+- Looking for opportunities as a Frontend Developer or React Developer.
 
 ### Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,tailwind,bootstrap,postman,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,wordpress,webflow,github,vscode" />
 </p>
 
 ### Let's Connect
